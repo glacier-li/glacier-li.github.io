@@ -1,2 +1,2 @@
-# glacier-li.github.io
-Research website of Yanan Li
+# lyn2.github.io
+website
