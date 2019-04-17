@@ -1,6 +1,6 @@
 # lyn2.github.io
 
-This is the research website for Dr. Yanan "Nancy" Li. Dr. Yanan Li is currently an assistant professor at the Texas State University in San Marcos, TX, USA. 
+This is the research website for Dr. Yanan "Nancy" Li. Dr. Yanan Li is currently an assistant professor at the Texas State University in San Marcos, TX, USA.
 
 This website was built using:
 
